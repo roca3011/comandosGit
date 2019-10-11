@@ -40,8 +40,15 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
-#post
+#postbody
 {
     background: white;
     padding: 1em;
+}
+#footer
+{
+    background: rgb(79, 141, 233);
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
